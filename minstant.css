@@ -1,0 +1,22 @@
+/* CSS declarations go here */
+
+.user_avatar{
+	min-height:100px;
+	text-align: center;
+
+}
+.avatar_img{
+	height:75px;
+	margin: 10px;
+}
+.textmessage{
+	font-size: 2.0em;
+}
+
+/* adjust emoji size -> recommendation from davidfrancisco:twemoji webpage */
+img.emoji {
+	height: 1em;
+	width: 1em;
+	margin: 0 .05em 0 .1em;
+	vertical-align: -0.1em;
+}
